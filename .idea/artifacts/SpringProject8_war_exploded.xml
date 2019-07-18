@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringProject8:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringProject8_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringProject8/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringProject8" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="spring-web-5.0.7.RELEASE" />
+          <element id="library" level="project" name="com.springsource.com.mchange.v2.c3p0-0.9.1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
